@@ -50,5 +50,4 @@ This means that while one person works on code for the autonomous, another could
 - Run a `git status` at the start of a meeting to make sure whoever was there before you commited their code and that you are on the right branch
 
 ### Names
-  Petro Papahadjopoulos
-  NOT Jerry Yk (hes stupid)
+  Petro Papahadopoulos
