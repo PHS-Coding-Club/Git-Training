@@ -33,7 +33,7 @@ This means that while one person works on code for the autonomous, another could
   - Clone this repository from Github
   - Add your name to the list at the bottom of this file
   - Commit and push those changes
-    - You may need to make an auth key for your account for this, ask a software lead or mentor for more help with this
+    - Make sure to sign in
 
 ### Notes
 
