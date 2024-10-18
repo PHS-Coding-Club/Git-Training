@@ -53,3 +53,4 @@ This means that while one person works on code for the autonomous, another could
   - Petro Papahadopoulos
   - Jerry Yu
   - Callum Louch
+  - Caleb Canada
