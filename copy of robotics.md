@@ -54,3 +54,4 @@ This means that while one person works on code for the autonomous, another could
   - Jerry Yu
   - Callum Louch
   - Caleb Canada
+  - Noah Sohn
