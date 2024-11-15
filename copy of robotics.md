@@ -52,6 +52,7 @@ This means that while one person works on code for the autonomous, another could
 ### Names
   - Petro Papahadopoulos
   - Jerry Yu
+  - jeffery tornatore
   - Callum Louch
   - Caleb Canada
   - Noah Sohn
